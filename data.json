@@ -1,0 +1,15 @@
+{
+    "products": [
+      { "id": 1, "name": "Manilla ojo turco", "price": 19.99 },
+      { "id": 2, "name": "Manilla 7 nudos", "price": 29.99 },
+      { "id": 3, "name": "Manilla Oro Rosa", "price": 14.99 },
+      { "id": 4, "name": "Manilla Elefante", "price": 24.99 },
+      { "id": 5, "name": "Manilla de Cristal", "price": 39.99 },
+      { "id": 6, "name": "Manilla 7 Esferas", "price": 9.99 },
+      { "id": 7, "name": "Manilla Perrito", "price": 49.99 },
+      { "id": 8, "name": "Manilla Trenzada", "price": 19.99 },
+      { "id": 9, "name": "Manilla Sencilla", "price": 34.99 },
+      { "id": 10, "name": "Manilla Gatico", "price": 29.99 }
+    ]
+  }
+  
